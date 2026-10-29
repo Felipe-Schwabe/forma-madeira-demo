@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#343C31"/>
+  <circle cx="980" cy="-30" r="360" fill="#8A6248" opacity=".34"/>
+  <circle cx="1120" cy="590" r="250" fill="#E8DFD1" opacity=".12"/>
+  <path d="M70 94h90v2H70zM70 112h150v1H70z" fill="#C8B9A1"/>
+  <text x="70" y="185" fill="#C8B9A1" font-family="Arial, sans-serif" font-size="19" letter-spacing="5">SITE DEMONSTRATIVO</text>
+  <text x="70" y="310" fill="#F6F3EC" font-family="Georgia, serif" font-size="88">Forma &amp;</text>
+  <text x="70" y="395" fill="#E8DFD1" font-family="Georgia, serif" font-size="88" font-style="italic">Madeira</text>
+  <text x="74" y="455" fill="#F6F3EC" opacity=".72" font-family="Arial, sans-serif" font-size="20" letter-spacing="4">AMBIENTES PLANEJADOS</text>
+  <path d="M785 155h300v260H785z" fill="#E8DFD1" opacity=".1" stroke="#C8B9A1"/>
+  <path d="M825 380V235h82v145M930 380V190h112v190M1067 380V270h-25" fill="none" stroke="#E8DFD1" stroke-width="5" opacity=".72"/>
+  <path d="M765 425h345" stroke="#C8B9A1" opacity=".6"/>
+  <text x="70" y="560" fill="#F6F3EC" opacity=".55" font-family="Arial, sans-serif" font-size="15" letter-spacing="2">DESIGN · PRECISÃO · PERSONALIZAÇÃO</text>
+</svg>
